@@ -1,0 +1,9 @@
+String comparison:
+Are the strings equal? false
+
+String copy:
+Original string: COPY STRING
+Copied string: COPY STRING
+
+String concatenation:
+Concatenated string: Hello, world!
