@@ -16,13 +16,13 @@ public class StringFunctions {
 
     public static void main(String[] args) {
         // Test compareStrings function
-        String str1 = "Hello";
-        String str2 = "hello";
+        String str1 = "Abhishek";
+        String str2 = "abhishek";
         System.out.println("String comparison:");
         System.out.println("Are the strings equal? " + compareStrings(str1, str2));
 
         // Test copyString function
-        String original = "Copy me!";
+        String original = "COPY STRING";
         String copied = copyString(original);
         System.out.println("\nString copy:");
         System.out.println("Original string: " + original);
@@ -36,3 +36,4 @@ public class StringFunctions {
         System.out.println("Concatenated string: " + concatenated);
     }
 }
+
